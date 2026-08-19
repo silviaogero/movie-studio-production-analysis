@@ -151,9 +151,11 @@ activemq-data/
 .env
 .envrc
 .venv
+.learn-env
 env/
 venv/
 ENV/
+learn-env/
 env.bak/
 venv.bak/
 
@@ -216,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Movie project data
+data/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Compressed data files
+*.zip
+*.gz
