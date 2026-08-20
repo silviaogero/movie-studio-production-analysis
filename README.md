@@ -207,3 +207,7 @@ The results should be treated as **historical evidence rather than guarantees of
 **Group 3 — Module III Project**
 
 Movie Industry Data Analysis
+
+## Kanban Board link and description
+Task Allocation: The group has divided the 60 project tasks equally among the 6 group members. Each member is responsible for completing 10 tasks, ensuring an equal distribution of workload and accountability. Tasks are assigned sequentially from Task 1 to Task 60. Each member moved their assigned tasks through the Kanban workflow: To Do → In Progress → Completed. Group members communicated regularly, reviewed each other's work, and supported one another where tasks are dependent on previous work.
+Kanban Board link https://app.clickup.com/90152682218/v/li/901525209064 
