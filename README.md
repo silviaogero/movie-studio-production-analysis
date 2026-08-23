@@ -148,6 +148,12 @@ The project follows this workflow:
 
 **Business Understanding → Data Understanding → Data Preparation → Modeling / Analytical Methods → Evaluation → Recommendations**
 
+## Interactive Dashboard & Presentation
+
+[→ Open Interactive Tableau Dashboard](https://public.tableau.com/app/profile/eugin.wangila/viz/BoxOfficeDynamics/BoxOfficeDynamicsBudgetsGenresandRatings)
+[→ Open Presentation](https://docs.google.com/presentation/d/1fbNasbkhW25zgj8HHPxtrz-HrqZxOlkseos1WyBo648/edit?slide=id.g3f3f23a2796_2_75#slide=id.g3f3f23a2796_2_75)
+
+
 ## Limitations
 
 - Historical performance does not guarantee future success.
