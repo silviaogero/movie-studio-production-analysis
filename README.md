@@ -151,6 +151,7 @@ The project follows this workflow:
 ## Interactive Dashboard & Presentation
 
 [→ Open Interactive Tableau Dashboard](https://public.tableau.com/app/profile/eugin.wangila/viz/BoxOfficeDynamics/BoxOfficeDynamicsBudgetsGenresandRatings)
+
 [→ Open Presentation](https://docs.google.com/presentation/d/1fbNasbkhW25zgj8HHPxtrz-HrqZxOlkseos1WyBo648/edit?slide=id.g3f3f23a2796_2_75#slide=id.g3f3f23a2796_2_75)
 
 
