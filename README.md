@@ -150,7 +150,7 @@ The project follows this workflow:
 
 ## Interactive Dashboard & Presentation
 
-[→ Open Interactive Tableau Dashboard](https://public.tableau.com/app/profile/eugin.wangila/viz/BoxOfficeDynamics/BoxOfficeDynamicsBudgetsGenresandRatings)
+[→ Open Interactive Tableau Dashboard](https://public.tableau.com/app/profile/yahya.osman1735/viz/MovieStudioAnalysisDashboard/Dashboard1?publish=yes)
 
 [→ Open Presentation](https://docs.google.com/presentation/d/1fbNasbkhW25zgj8HHPxtrz-HrqZxOlkseos1WyBo648/edit?slide=id.g3f3f23a2796_2_75#slide=id.g3f3f23a2796_2_75)
 
@@ -217,8 +217,5 @@ Movie Industry Data Analysis
 
 ## Kanban Board link and description
 Task Allocation: The group has divided the 60 project tasks equally among the 6 group members. Each member is responsible for completing 10 tasks, ensuring an equal distribution of workload and accountability. Tasks are assigned sequentially from Task 1 to Task 60. Each member moved their assigned tasks through the Kanban workflow: To Do → In Progress → Completed. Group members communicated regularly, reviewed each other's work, and supported one another where tasks are dependent on previous work.
-Kanban Board link https://app.clickup.com/90152682218/v/b/2kyr9gqa-115
+Kanban Board link https://app.clickup.com/90152682218/v/b/2kyr9gqa-95
 
-## Tableau Dashboard 
-
-https://public.tableau.com/app/profile/yahya.osman1735/viz/MovieStudioAnalysisDashboard/Dashboard1?publish=yes
